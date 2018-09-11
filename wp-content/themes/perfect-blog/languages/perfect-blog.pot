@@ -1,0 +1,413 @@
+# <!=Copyright (C) 2018 Themeshopy
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Perfect Blog 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Themeshopy <support@themeshopy.com>\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: "
+"__;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;_nx_noop:1,2,3c;esc_"
+"attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;esc_html_x:1,2c;\n"
+"Language: en_US\n"
+"X-Poedit-SearchPath-0: ../../perfect-blog\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: grunt-wp-i18n1.0.0\n"
+
+#: 404.php:13
+msgid '404'
+msgstr ""
+
+#: 404.php:13
+msgid 'Not Found'
+msgstr ""
+
+#: 404.php:14
+msgid 'Looks like you have taken a wrong turn&hellip'
+msgstr ""
+
+#: 404.php:15 
+#: no-results.php:21
+msgid 'Dont worry&hellip it happens to the best of us.'
+msgstr ""
+
+#: 404.php:17
+msgid 'Back to Home Page'
+msgstr ""
+
+#: comments.php:28
+msgid 'One thought on &ldquo;%s&rdquo;'
+msgstr ""
+
+#: comments.php:36
+msgid 'comments title'
+msgstr ""
+
+#: comments.php:66
+msgid 'Comments are closed.'
+msgstr ""
+
+#: footer.php:29
+msgid 'copyright 2018 Blog WordPress Theme By'
+msgstr ""
+
+#: header.php:21
+msgid 'Menu'
+msgstr ""
+
+#: no-results.php:11
+msgid 'Nothing Found'
+msgstr ""
+
+#: no-results.php:16
+msgid 'Ready to publish your first post? Get started here.'
+msgstr ""
+
+#: no-results.php:18
+msgid 'Sorry, but nothing matched your search terms. Please try again with some different keywords.'
+msgstr ""
+
+#: no-results.php:23
+msgid 'Return to Home Page'
+msgstr ""
+
+#: searchform.php:10
+msgid 'placeholder'
+msgstr ""
+
+#: searchform.php:12
+msgid 'submit button'
+msgstr ""
+
+#: sidebar.php:12
+msgid 'Archives'
+msgstr ""
+
+#: sidebar.php:18
+msgid 'Meta'
+msgstr ""
+
+#: functions.php:31
+msgid 'Primary Menu'
+msgstr ""
+
+#: functions.php:64
+msgid 'Blog Sidebar'
+msgstr ""
+
+#: functions.php:65
+msgid 'Appears on blog page sidebar'
+msgstr ""
+
+#: functions.php:75
+#: functions.php:85
+msgid 'Appears on page sidebar'
+msgstr ""
+
+#: functions.php:95
+msgid 'Appears on Home Page'
+msgstr ""
+
+#: functions.php:74
+msgid 'Posts and Pages Sidebar'
+msgstr ""
+
+#: functions.php:84
+msgid 'Third Column Sidebar'
+msgstr ""
+
+#: functions.php:94
+msgid 'Home Page Sidebar'
+msgstr ""
+
+#: functions.php:104
+msgid 'Footer Navigation 1'
+msgstr ""
+
+#: functions.php:114
+msgid 'Footer Navigation 2'
+msgstr ""
+
+#: functions.php:124
+msgid 'Footer Navigation 3'
+msgstr ""
+
+#: functions.php:134
+msgid 'Footer Navigation 4'
+msgstr ""
+
+#: functions.php:105
+#: functions.php:115
+#: functions.php:125
+#: functions.php:135
+msgid 'Appears on footer'
+msgstr ""
+
+#: functions.php:194
+msgid 'ThemeShopy'
+msgstr ""
+
+#: archive.php:38 
+#: archive.php:66 
+#: archive.php:96 
+#: archive.php:124 
+#: archive.php:154 
+#: archive.php:184 
+#: image.php:38 
+#: image.php:66 
+#: image.php:96 
+#: image.php:124 
+#: image.php:154 
+#: image.php:184 
+#: index.php:39 
+#: index.php:63 
+#: index.php:89 
+#: index.php:113 
+#: index.php:139 
+#: index.php:164 
+#: search.php:35 
+#: search.php:60 
+#: search.php:87 
+#: search.php:112 
+#: search.php:139 
+#: search.php:166
+msgid 'Previous page'
+msgstr ""
+
+#: archive.php:39 archive.php:67 archive.php:97 archive.php:125 archive.php:155 archive.php:185
+#: image.php:39 image.php:67 image.php:97 image.php:125 image.php:155 image.php:185
+#: index.php:40 index.php:64 index.php:90 index.php:114 index.php:140 index.php:165
+#: search.php:36 search.php:61 search.php:88 search.php:113 search.php:140 search.php:167 
+msgid 'Next page' 
+msgstr ""
+
+#: archive.php:40 archive.php:68 archive.php:97 archive.php:126 archive.php:156 archive.php:186
+#: image.php:40 image.php:68 image.php:98 image.php:126 image.php:156 image.php:186
+#: index.php:41 index.php:65 index.php:91 index.php:115 index.php:141 index.php:166
+#: search.php:37 search.php:62 search.php:89 search.php:114 search.php:141 search.php:168 
+#: single.php:41
+#: single.php:97
+#: single.php:153
+#: single.php:211
+#: single.php:271
+#: single.php:333
+msgid 'Page' 
+msgstr ""
+
+#: search.php:21
+#: search.php:46
+#: search.php:73
+#: search.php:98
+#: search.php:125
+#: search.php:152
+msgid 'Results For: %s'
+msgstr ""
+
+#: single.php:25
+#: single.php:81
+#: single.php:137
+#: single.php:195
+#: single.php:257
+#: single.php:317
+#: template-part/content-audio.php:26
+#: template-part/content-gallery.php:15
+#: template-part/content-image.php:15
+#: template-part/content-video.php:26
+#: template-part/content.php:15
+#: template-part/grid-layout.php:16
+msgid '0 Comments'
+msgstr ""
+
+#: single.php:48
+#: single.php:104
+#: single.php:160
+#: single.php:218
+#: single.php:278
+#: single.php:340
+#: template-parts/image-layout.php:42
+msgid 'Parent post link'
+msgstr ""
+
+#: single.php:37
+#: single.php:93
+#: single.php:149
+#: single.php:207
+#: single.php:267
+#: single.php:329
+#: template-parts/image-layout.php:27
+msgid 'Pages:'
+msgstr ""
+
+#: single.php:53
+#: single.php:109
+#: single.php:165
+#: single.php:223
+#: single.php:283
+#: single.php:345
+#: template-parts/image-layout.php:47
+msgid 'Next'
+msgstr ""
+
+#: single.php:54
+#: single.php:110
+#: single.php:167
+#: single.php:224
+#: single.php:284
+#: single.php:346
+#: template-parts/image-layout.php:48
+msgid 'Next post:'
+msgstr ""
+
+#: single.php:56
+#: single.php:112
+#: single.php:168
+#: single.php:226
+#: single.php:286
+#: single.php:348
+#: template-parts/image-layout.php:50
+msgid 'Previous'
+msgstr ""
+
+#: single.php:57
+#: single.php:113
+#: single.php:169
+#: single.php:227
+#: single.php:287
+#: single.php:349
+#: template-parts/image-layout.php:51
+msgid 'Previous post:'
+msgstr ""
+
+#: page-template/custom-front-page.php:59
+#: template-part/content-audio.php:47
+#: template-part/content-gallery.php:33
+#: template-part/content-image.php:23
+#: template-part/content-video.php:46
+#: template-part/content.php:
+#: template-part/grid-layout.php:24
+msgid'READ MORE'
+msgstr ""
+
+#: page-template/custom-front-page.php:82
+msgid 'THINGS YOU DONT WANNA MISS'
+msgstr ""
+
+#: template-parts/image-layout.php:32
+msgid 'Edit'
+msgstr ""
+
+#: inc/customizer.php:20
+msgid 'Theme Settings'
+msgstr ""
+
+#: inc/customizer.php:21
+msgid 'Description of what this panel does.'
+msgstr ""
+
+#: inc/customizer.php:26
+msgid 'Layout Settings'
+msgstr ""
+
+#: inc/customizer.php:33
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:41
+msgid 'Change Layouts'
+msgstr ""
+
+#: inc/customizer.php:33 #: inc/customizer.php:45
+msgid 'Right Sidebar'
+msgstr ""
+
+#: inc/customizer.php:44
+msgid 'Left Sidebar'
+msgstr ""
+
+#: inc/customizer.php:46
+msgid 'One Column'
+msgstr ""
+
+#: inc/customizer.php:47
+msgid 'Three Columns'
+msgstr ""
+
+#: inc/customizer.php:48
+msgid 'Four Columns'
+msgstr ""
+
+#: inc/customizer.php:49
+msgid 'Grid Layout'
+msgstr ""
+
+#: inc/customizer.php:56
+msgid 'Add Top Bar Content here'
+msgstr ""
+
+#: inc/customizer.php:55
+msgid 'Social Icon Section'
+msgstr ""
+
+#: inc/customizer.php:79
+msgid 'Add Facebook link'
+msgstr ""
+
+#: inc/customizer.php:91
+msgid 'Add Twitter link'
+msgstr ""
+
+#: inc/customizer.php:115
+msgid 'Add Instagram link'
+msgstr ""
+
+#: inc/customizer.php:127
+msgid 'Add Pintrest link'
+msgstr ""
+
+#: inc/customizer.php:103
+msgid 'Add RSS link'
+msgstr ""
+
+#: inc/customizer.php:135
+msgid 'Slider Settings'
+msgstr ""
+
+#: inc/customizer.php:149
+msgid 'Select Slide Image Page'
+msgstr ""
+
+#: inc/customizer.php:157
+msgid 'Category post Section'
+msgstr ""
+
+#: inc/customizer.php:168
+msgid 'Section Title'
+msgstr ""
+
+#: inc/customizer.php:192
+msgid 'Select Category to display Latest Post'
+msgstr ""
+
+#: inc/customizer.php:198
+msgid 'Footer Text'
+msgstr ""
+
+#: inc/customizer.php:199
+msgid 'Add some text for footer like copyright etc.'
+msgstr ""
+
+#: inc/customizer.php:210
+msgid 'Copyright Text'
+msgstr ""
+
+#: inc/customizer.php:293
+msgid 'Blog Pro Theme'
+msgstr ""
+
+#: inc/customizer.php:294
+msgid 'Go Pro'
+msgstr ""
